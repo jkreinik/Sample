@@ -1,0 +1,16 @@
+body{
+    background-color:grey;
+}
+
+p{
+    color:purple;
+    background-color: yellowgreen;
+}
+
+img{
+    border-style: dashed;
+    border-color: aqua
+}
+li{
+    display: inline; 
+}
